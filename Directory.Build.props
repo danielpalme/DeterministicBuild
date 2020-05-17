@@ -5,7 +5,7 @@
   </ItemGroup>
   
   <PropertyGroup>
-    <!-- <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
-    <Deterministic>true</Deterministic> -->
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
 </Project>
